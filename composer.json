@@ -1,0 +1,16 @@
+{
+    "name": "user/tugas-2",
+    "description": "TUGAS 2 - Salsabila Tasmara",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Salsabila-0702192024"
+        }
+    ],
+    "require": {}
+}
